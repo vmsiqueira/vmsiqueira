@@ -7,7 +7,7 @@
 - 😄 I'm currently on a carrer transition
 - 📌 live in Belém, Pará, Brasil
 - 🚀 I'm currently in a fullstack formation
-- 🔥 I’m currently learning JavaScript, Typescript and ReactJS
+- 🔥 Currently studying and improving JavaScript, Typescript and ReactJS
 - 💬 Help and tips, feel free to contact
 - 📫 How to reach me: [personal email](mailto:thevmesquita@gmail.com)
 
@@ -29,7 +29,7 @@
 ## 💻 &nbsp; Contact
 <div>
   <a href="https://instagram.com/vitormsiqueira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%238000FF?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href = "mailto:thevmesquita@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23FF0026?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "mailto:thevmesquita@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23FF0026?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitor-siqueira-149a88201/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
