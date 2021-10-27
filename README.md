@@ -4,7 +4,7 @@
 
 ## 💻 &nbsp;About Me
 
-- 😄 I'm currently on a carrer transition
+- 😄 I'm currently on a carreer transition
 - 📌 live in Belém, Pará, Brasil
 - 🚀 I'm currently in a fullstack formation
 - 🔥 Currently studying and improving JavaScript, Typescript and ReactJS
