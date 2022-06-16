@@ -1,4 +1,4 @@
-<h1>Hello World <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" alt"hi gif" width="32px" /> I'm Vitor Siqueira</h1>
+<h1>Hello World, I'm Vitor Siqueira</h1>
 
 👋 Hi there, I’m Vitor Siqueira, enthusiast of the devlopment technologies and i'm always challenging myself to learn new things.
 
@@ -11,7 +11,7 @@
 - 💬 Help and tips, feel free to contact
 - 📫 How to reach me: [personal email](mailto:thevmesquita@gmail.com)
 
-## 💻 &nbsp; Githubstats
+## 💻 &nbsp; Github stats
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vmsiqueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmsiqueira&layout=compact&langs_count=7&theme=dracula"/> -->
