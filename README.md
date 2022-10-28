@@ -11,12 +11,6 @@
 - 💬 Help and tips, feel free to contact
 - 📫 How to reach me: [personal email](mailto:thevmesquita@gmail.com)
 
-## 💻 &nbsp; Github stats
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vmsiqueira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmsiqueira&layout=compact&langs_count=7&theme=dracula"/> -->
-</div>
-
 ## 💻 &nbsp; Skills
 <div sytle="display: inline_block">
 <img align="center" alt="Vit-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
